@@ -7,7 +7,6 @@ import java.util.Properties;
 
 public class PropertiesOperation {
 
-
     static Properties prop = new Properties();
 
     public static String getPropertyValueByKey(String key) {

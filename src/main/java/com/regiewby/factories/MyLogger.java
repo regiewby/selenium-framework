@@ -20,6 +20,7 @@ public class MyLogger {
         info("\n\n************** Execution End : " + sTestCaseName + " **************\n");
     }
 
+
     private static void startLog(String dirPath, String testCaseName) {
 
         int noOfFiles = 0;

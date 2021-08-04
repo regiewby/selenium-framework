@@ -1,0 +1,60 @@
+[INFO ] 2021-08-04 22:11:31.073 - com.regiewby.factories.MyLogger:startTestCase 16==>  
+
+************** Execution Started : Standard_Login **************
+
+[INFO ] 2021-08-04 22:11:31.470 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Username-Field ==> standard_user
+[INFO ] 2021-08-04 22:11:31.582 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Password-Field ==> secret_sauce
+[INFO ] 2021-08-04 22:11:32.445 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> Login-Button
+[INFO ] 2021-08-04 22:11:41.150 - com.regiewby.factories.MyLogger:startTestCase 16==>  
+
+************** Execution Started : Standard_Login **************
+
+[INFO ] 2021-08-04 22:11:41.566 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Username-Field ==> standard_user
+[INFO ] 2021-08-04 22:11:41.658 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Password-Field ==> secret_sauce
+[INFO ] 2021-08-04 22:11:42.552 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> Login-Button
+[INFO ] 2021-08-04 22:11:42.911 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> addToCart-button
+[INFO ] 2021-08-04 22:11:42.949 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> addToCart-button
+[INFO ] 2021-08-04 22:11:42.999 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> addToCart-button
+[INFO ] 2021-08-04 22:15:34.067 - com.regiewby.factories.MyLogger:startTestCase 16==>  
+
+************** Execution Started : Standard_Login **************
+
+[INFO ] 2021-08-04 22:15:34.648 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Username-Field ==> standard_user
+[INFO ] 2021-08-04 22:15:34.827 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Password-Field ==> secret_sauce
+[INFO ] 2021-08-04 22:15:35.763 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> Login-Button
+[INFO ] 2021-08-04 22:15:45.727 - com.regiewby.factories.MyLogger:startTestCase 16==>  
+
+************** Execution Started : Standard_Login **************
+
+[INFO ] 2021-08-04 22:15:46.229 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Username-Field ==> standard_user
+[INFO ] 2021-08-04 22:15:46.354 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Password-Field ==> secret_sauce
+[INFO ] 2021-08-04 22:15:47.181 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> Login-Button
+[INFO ] 2021-08-04 22:15:47.304 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> addToCart-button
+[INFO ] 2021-08-04 22:15:47.340 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> addToCart-button
+[INFO ] 2021-08-04 22:15:47.376 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> addToCart-button
+[INFO ] 2021-08-04 22:15:47.406 - com.regiewby.utilities.Keywords:expectedTrue 62==>  EXPECTEDTRUE ==> cart-badge-counter Expected ==> true
+[INFO ] 2021-08-04 22:16:25.426 - com.regiewby.factories.MyLogger:startTestCase 16==>  
+
+************** Execution Started : Standard_Login **************
+
+[INFO ] 2021-08-04 22:16:25.821 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Username-Field ==> standard_user
+[INFO ] 2021-08-04 22:16:25.933 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Password-Field ==> secret_sauce
+[INFO ] 2021-08-04 22:16:26.811 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> Login-Button
+[INFO ] 2021-08-04 22:16:35.451 - com.regiewby.factories.MyLogger:startTestCase 16==>  
+
+************** Execution Started : Standard_Login **************
+
+[INFO ] 2021-08-04 22:16:35.888 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Username-Field ==> standard_user
+[INFO ] 2021-08-04 22:16:35.982 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Password-Field ==> secret_sauce
+[INFO ] 2021-08-04 22:16:36.848 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> Login-Button
+[INFO ] 2021-08-04 22:16:37.292 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> addToCart-button
+[INFO ] 2021-08-04 22:16:37.341 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> addToCart-button
+[INFO ] 2021-08-04 22:16:37.394 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> addToCart-button
+[INFO ] 2021-08-04 22:16:37.442 - com.regiewby.utilities.Keywords:expectedTrue 62==>  EXPECTEDTRUE ==> cart-badge-counter Expected ==> true
+[INFO ] 2021-08-04 22:16:37.670 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> shoppingCart-button
+[INFO ] 2021-08-04 22:16:37.919 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> checkout-button
+[INFO ] 2021-08-04 22:16:38.091 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> checkout-firstName-field ==> Regie
+[INFO ] 2021-08-04 22:16:38.425 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> checkout-lastName-field ==> Wibhiyanto
+[INFO ] 2021-08-04 22:16:38.522 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> checkout-postalCode-field ==> 10460
+[INFO ] 2021-08-04 22:16:38.644 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> checkout-continue-button
+[INFO ] 2021-08-04 22:16:38.831 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> checkout-continue-button

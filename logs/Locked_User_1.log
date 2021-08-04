@@ -1,0 +1,21 @@
+[INFO ] 2021-08-04 22:11:36.400 - com.regiewby.factories.MyLogger:startTestCase 16==>  
+
+************** Execution Started : Locked_User **************
+
+[INFO ] 2021-08-04 22:11:36.817 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Username-Field ==> locked_out_user
+[INFO ] 2021-08-04 22:11:36.910 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Password-Field ==> secret_sauce
+[INFO ] 2021-08-04 22:11:37.442 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> Login-Button
+[INFO ] 2021-08-04 22:15:40.525 - com.regiewby.factories.MyLogger:startTestCase 16==>  
+
+************** Execution Started : Locked_User **************
+
+[INFO ] 2021-08-04 22:15:40.973 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Username-Field ==> locked_out_user
+[INFO ] 2021-08-04 22:15:41.067 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Password-Field ==> secret_sauce
+[INFO ] 2021-08-04 22:15:41.600 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> Login-Button
+[INFO ] 2021-08-04 22:16:30.846 - com.regiewby.factories.MyLogger:startTestCase 16==>  
+
+************** Execution Started : Locked_User **************
+
+[INFO ] 2021-08-04 22:16:31.256 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Username-Field ==> locked_out_user
+[INFO ] 2021-08-04 22:16:31.363 - com.regiewby.utilities.Keywords:sendKey 19==>  SENDKEY ==> Login-Password-Field ==> secret_sauce
+[INFO ] 2021-08-04 22:16:32.195 - com.regiewby.utilities.Keywords:click 47==>  CLICK ==> Login-Button
